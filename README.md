@@ -1,38 +1,38 @@
-# math_middle
-
-## 중학수학 Course Overview
+# 중학수학 Course Overview
 Spring 2022
 
-Instructor: Jungchang Park
-Email: valley84265@gmail.com
-Time: Thu 21:00 – 22:00 (begin at 22-01-27)
-Place: Google Meet
+- Instructor: Jungchang Park
+- Email: valley84265@gmail.com
+- Time: Thu 21:00 – 22:00 (begin at 22-01-27)
+- Place: Google Meet
 
-Course Pages:
+## Course Pages
 https://github.com/precise-math/math_middle
 
-Main References:
+## Main References
 • 고중숙, 중학수학 바로 보기, 궁리출판, 2017.
 • 고중숙, 중학수학 총정리 실전필수 400제, 궁리출판, 2017.
 
-Objectives: 이 코스는 1. 중학교 수학과정의 습득과 2. 정의와 정리, 공식 등의 의미와 관계에 대해 생각하며
+## Objectives
+이 코스는 1. 중학교 수학과정의 습득과 2. 정의와 정리, 공식 등의 의미와 관계에 대해 생각하며
 수학을 접해보는 과정을 다룹니다.
 
-Prerequisites:
+## Prerequisites
 - 수업을 진행하기 전 수학 지식은 요구하지 않습니다.
 - 과제를 제출하기 위하여 Git 사용법, Latex 사용법이 숙지되어야 합니다. 윤재형님은 조윤호님이 Latex
 사용법을 다음 주 내로 가르쳐 줄 터이니 서로 시간조율 하십셩.
 - 과제를 풀 때에는 파이썬 및 numpy, matplotlib, pandas 라이브러리 사용을 권장하나, 다른 툴을 사용해도
 무방합니다. 김시온님과 조윤호님은 박준하님과 상의하십시오.
 
-Tentative Course Outline:
+## Tentative Course Outline
 정의, 집합, 수, 식, 함수, 기하, 통계와 확률
 
-Important Dates:
+## Important Dates
 - 선수 과목 숙지 확인 #1 01, 27, 2021
 - 선수 과목 숙지 확인 #2 02, 03, 2021
 
-Course Policy: 본 강의는 계산보다는 개념에 대해 생각을 나누는 방식으로 진행됩니다. 강의방식은 다음과
+## Course Policy
+본 강의는 계산보다는 개념에 대해 생각을 나누는 방식으로 진행됩니다. 강의방식은 다음과
 같습니다.
 1. 해당 주차 내용을 먼저 읽고 예제 및 문제를 풀어옵니다.
 2. 수업이 시작될 때 개념체크 질문을 제공합니다. 질문에 대한 답을 적습니다.
@@ -41,7 +41,7 @@ Course Policy: 본 강의는 계산보다는 개념에 대해 생각을 나누�
 5. 숙제를 체크하고, 풀이 과정이 논리적이지 않거나 틀리다고 판단되는 문제의 풀이자는 다시 개념을 되짚어
 봅니다.
 
-Class Policy:
+## Class Policy
 - 본 교재는 문장, 단어 하나하나 허투루 쓰지 않았습니다. 한 번 슥 보고 이해하려 하는 것은 오만이라고
 생각합니다. 왜 문장마다 이런 표현을 사용하였는지 소중하게 생각하여 읽어봅시다.
 - 선수과목 중 LATEX와 Github사용법은 2번째 모임 시간인 1월 27일 내에 준비되어야 합니다.
